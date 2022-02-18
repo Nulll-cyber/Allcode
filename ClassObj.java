@@ -1,5 +1,5 @@
 package javatutorial;
-class nallla{
+class number{
 	int num1;
 	int num2;
 	int result;
@@ -14,7 +14,7 @@ public class ClassObj
 {
 	public static void main (String[]args)
 	{
-	  nalla obj= new nalla();
+	  number obj= new number();
 	{
 	obj.num1=3;
 	obj.num2=34;
